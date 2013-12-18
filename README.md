@@ -1,4 +1,4 @@
-st3
+Sublime Text 3 configuration
 ===
 
-Sublime Text 3 configuration
+Exactly what it says on the label.

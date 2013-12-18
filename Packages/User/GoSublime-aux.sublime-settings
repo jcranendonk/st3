@@ -1,0 +1,55 @@
+{
+	"9o.hist.C:\\Users\\Jeroen":
+	[
+		"cd Go"
+	],
+	"9o.hist.C:\\Users\\Jeroen\\Dev\\misc\\REST-Examples\\RPC-Enlightenment":
+	[
+		"node server.js",
+		"npm",
+		"npm install",
+		"node",
+		"node server",
+		"ps"
+	],
+	"9o.hist.C:\\Users\\Jeroen\\Go":
+	[
+		"ls",
+		"dir",
+		"cd pkg"
+	],
+	"9o.hist.C:\\Users\\Jeroen\\Go\\pkg":
+	[
+		"dir",
+		"cd windows_amd64"
+	],
+	"9o.hist.C:\\Users\\Jeroen\\Go\\pkg\\windows_amd64":
+	[
+		"dir",
+		"cd github.com/jcranendonk"
+	],
+	"9o.hist.C:\\Users\\Jeroen\\Go\\pkg\\windows_amd64\\github.com\\jcranendonk":
+	[
+		"dir",
+		"goxep"
+	],
+	"9o.hist.C:\\Users\\Jeroen\\Go\\src\\github.com\\jcranendonk\\goxep":
+	[
+		"go -v",
+		"go version",
+		"go run",
+		"go fmt",
+		"github.com/jcranendonk/goxep",
+		"go build",
+		"cd ~",
+		"go run main.go"
+	],
+	"9o.hist.C:\\windows\\system32":
+	[
+		"pwd",
+		"dir"
+	],
+	"ann": "a13.12.17-1",
+	"install_version": "r13.12.17-1",
+	"version": "r13.12.17-1"
+}

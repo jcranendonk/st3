@@ -1,0 +1,7 @@
+*/
+!Packages/
+!Packages/User/
+Packages/User/GoSublime/
+
+*.cache
+Package Control.last-run
