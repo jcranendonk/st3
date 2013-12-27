@@ -1,18 +1,28 @@
 {
 	"user":
 	{
-		"debug": true,
+		"debug": false,
 		"delay": 0.25,
 		"error_color": "D02000",
-		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Danish Royalty/Danish Royalty.gutter-theme",
 		"gutter_theme_excludes":
 		[
 		],
 		"lint_mode": "background",
 		"linters":
 		{
+			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
 		},
-		"mark_style": "outline",
+		"mark_style": "stippled underline",
 		"no_column_highlights_line": false,
 		"paths":
 		{
