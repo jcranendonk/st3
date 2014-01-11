@@ -16,9 +16,7 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"shift_tab_unindent": true,
 	"show_tab_close_buttons": false,
-	"tab_completion": false,
 	"theme": "Nil.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
