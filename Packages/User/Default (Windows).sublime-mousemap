@@ -1,0 +1,9 @@
+[{
+    "button": "button4",
+    "count": 1,
+    "press_command": "jump_back"
+}, {
+    "button": "button5",
+    "count": 1,
+    "press_command": "jump_forward"
+}]
