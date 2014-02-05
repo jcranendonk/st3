@@ -1,7 +1,7 @@
 {
     "show_system_hidden_files": false,
-	"bookmarks": [
-	    {"name": "Dev", "path": "C:/Users/Jeroen/Development"},
-	    {"name": "Documents", "path": "C:/Users/Jeroen/Documents"}
-	]
+    "bookmarks": [
+        {"name": "Dev", "path": {"#multiconf#": [{"os:windows": "C:/Users/Jeroen/Development"}, {"os:osx":"~/workspaces/wf"}]}},
+        {"name": "Home", "path": {"#multiconf#": [{"os:windows": "C:/Users/Jeroen/Documents"}, {"os:osx":"~"}]}}
+    ]
 }
