@@ -17,6 +17,7 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"open_files_in_new_window": false,
 	"show_full_path": true,
 	"show_tab_close_buttons": false,
 	"theme": "Nil.sublime-theme",
