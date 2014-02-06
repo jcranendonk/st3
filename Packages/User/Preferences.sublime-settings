@@ -22,6 +22,5 @@
 	"show_tab_close_buttons": false,
 	"theme": "Nil.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true
+	"trim_trailing_white_space_on_save": true
 }
