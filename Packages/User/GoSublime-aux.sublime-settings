@@ -1,4 +1,32 @@
 {
+	"9o.hist./Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/GoSublime":
+	[
+		"build"
+	],
+	"9o.hist./Users/jeroencranendonk/workspaces/go/src/github.com/jcranendonk/goxep":
+	[
+		"run",
+		"?",
+		"help",
+		"build"
+	],
+	"9o.hist./Users/jeroencranendonk/workspaces/go/src/github.com/jcranendonk/wf_challenge":
+	[
+		"github.com/jcranendonk/wf_challenge",
+		"ls",
+		"kill",
+		"tsk",
+		"bui",
+		"tskill",
+		"build",
+		"run",
+		"jgoijgoijsg"
+	],
+	"9o.hist./Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src":
+	[
+		"help",
+		"env"
+	],
 	"9o.hist.C:\\Users\\Jeroen":
 	[
 		"cd Go"
