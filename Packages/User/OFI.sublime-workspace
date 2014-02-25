@@ -99,16 +99,72 @@
 		"selected_items":
 		[
 			[
-				"close",
-				"Project: Close"
-			],
-			[
 				"st",
 				"Git: Status"
 			],
 			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"dif",
+				"Git: Diff Staged"
+			],
+			[
 				"ad",
 				"Git: Add..."
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"rese",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"fi",
+				"File: New View into File"
+			],
+			[
+				"gr",
+				"Git: Graph All"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"gitgr",
+				"Git: Graph All"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"git",
+				"Git: Change Branch"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"gra",
+				"Git: Graph All"
+			],
+			[
+				"close",
+				"Project: Close"
 			],
 			[
 				"gc",
@@ -119,16 +175,8 @@
 				"Git: Diff Staged"
 			],
 			[
-				"rese",
-				"Git: Reset (unstage) Current File"
-			],
-			[
 				"gd",
 				"Git: Diff Staged"
-			],
-			[
-				"dif",
-				"Git: Diff Current File"
 			],
 			[
 				"gs",
@@ -203,10 +251,6 @@
 				"Git: Reset (unstage) All"
 			],
 			[
-				"com",
-				"Git: Commit"
-			],
-			[
 				"gitreset",
 				"Git: Reset (unstage) All"
 			],
@@ -235,10 +279,6 @@
 				"Git: Reset (unstage) Current File"
 			],
 			[
-				"git",
-				"Git: Graph All"
-			],
-			[
 				"inst",
 				"Package Control: Install Package"
 			],
@@ -265,10 +305,6 @@
 			[
 				"use",
 				"Preferences: Settings - User"
-			],
-			[
-				"sett",
-				"Preferences: Settings - Default"
 			],
 			[
 				"remo",
@@ -467,7 +503,7 @@
 				"Anaconda: McCabe complexity check"
 			]
 		],
-		"width": 633.0
+		"width": 602.0
 	},
 	"console":
 	{
@@ -490,22 +526,25 @@
 	},
 	"file_history":
 	[
-		"/Users/jeroencranendonk/workspaces/ofi/Web/css/style.less",
+		"/Users/jeroencranendonk/workspaces/ofi/Web/css/bootstrap-3.0.3/mixins.less",
+		"/Users/jeroencranendonk/Library/Caches/Cleanup At Startup/Transmit/FE497A5D-B81C-464D-BDCA-688DD63A245F/app.js",
 		"/Users/jeroencranendonk/workspaces/ofi/Web/template/home.html",
 		"/Users/jeroencranendonk/workspaces/ofi/Web/js/app.js",
-		"/Users/jeroencranendonk/workspaces/ofi/Web/index.html",
 		"/Users/jeroencranendonk/workspaces/ofi/Web/template/menu.html",
+		"/Users/jeroencranendonk/workspaces/ofi/Web/index.html",
+		"/Users/jeroencranendonk/workspaces/ofi/Web/css/style.less",
+		"/Users/jeroencranendonk/workspaces/ofi/Web/template/landing.html",
+		"/Users/jeroencranendonk/workspaces/ofi/README.md",
+		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/jeroencranendonk/workspaces/ofi/Web/js/controllers.js",
 		"/Users/jeroencranendonk/workspaces/ofi/Web/data/contacts.json",
 		"/Users/jeroencranendonk/workspaces/ofi/Files/Competitors.xlsx",
 		"/Users/jeroencranendonk/workspaces/ofi/Web/css/animations.less",
-		"/Users/jeroencranendonk/workspaces/ofi/Web/css/bootstrap-3.0.3/mixins.less",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/LESS.sublime-settings",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
-		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/jeroencranendonk/workspaces/ofi/Web/css/bootstrap-3.0.3/pagination.less",
 		"/Users/jeroencranendonk/workspaces/ofi/Web/js/lib/fullcalendar-1.6.4/fullcalendar.print.css",
@@ -614,10 +653,7 @@
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/admin/grids.py",
 		"/Users/jeroencranendonk/Library/Application Support/CopyLess/PreviewFiles/22ABE511-E18F-43DD-829D-278AA2A825B3-41556-00020D95BAB56CBD.txt",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/ProblemViewSelectedItemRenderer.mxml",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/skins/zestycrayon/LinkButtonSkin.mxml",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_global/src/com/webfilings/analytics/XBRLTrackingCodes.as",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_text/src/com/webfilings/table/view/overlays/indicators/DCTemplateStyleIndicator.as",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/externals/web-skin/static/assets/js/docs-only/style-ie.js"
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/skins/zestycrayon/LinkButtonSkin.mxml"
 	],
 	"find":
 	{
@@ -628,6 +664,7 @@
 		"height": 95.0,
 		"where_history":
 		[
+			"<open folders>, *.*",
 			"<open folders>, *.less",
 			"<open folders>, *.*",
 			"<open folders>, *.less",
@@ -646,6 +683,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"text-hide",
+			"hide-text",
+			"launch",
+			"lp_logo",
+			"home",
+			"launch",
+			"home",
 			"intelligence",
 			"scroll",
 			"callout3",
@@ -766,14 +810,7 @@
 			"LinkButton",
 			"BLUE_COLOR",
 			"clickHandler",
-			"NavKeyRenderer",
-			"DataGridDataChangedEvent",
-			"showInDocument",
-			"btnViewLocation_clickHandler",
-			"locationLabelGenerator",
-			"onItemClick",
-			"btnViewLocation",
-			"btnViewLocation_clickHandler"
+			"NavKeyRenderer"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -875,6 +912,22 @@
 		"selected_items":
 		[
 			[
+				"st",
+				"Web/css/style.less"
+			],
+			[
+				"s",
+				"Web/css/style.less"
+			],
+			[
+				"h",
+				"Web/template/home.html"
+			],
+			[
+				"app",
+				"Web/js/app.js"
+			],
+			[
 				"menu",
 				"Web/template/menu.html"
 			],
@@ -885,10 +938,6 @@
 			[
 				"con",
 				"Web/js/controllers.js"
-			],
-			[
-				"app",
-				"Web/js/app.js"
 			],
 			[
 				"anim",

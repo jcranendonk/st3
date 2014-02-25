@@ -67,6 +67,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/ProblemView.mxml",
+			"settings":
+			{
+				"buffer_size": 46435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_global/src/com/webfilings/analytics/XBRLTrackingCodes.as",
+			"settings":
+			{
+				"buffer_size": 18726,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -74,6 +90,34 @@
 		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
 			[
 				"sett",
 				"Preferences: Settings - Default"
@@ -91,24 +135,12 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"log",
-				"Git: Log All"
-			],
-			[
 				"push",
 				"Git: Push"
 			],
 			[
 				"ch",
 				"Git: Change Branch"
-			],
-			[
-				"com",
-				"Git: Commit"
-			],
-			[
-				"ad",
-				"Git: Add Current File"
 			],
 			[
 				"tabs",
@@ -129,10 +161,6 @@
 			[
 				"commen",
 				"Toggle Comment"
-			],
-			[
-				"st",
-				"Git: Status"
 			],
 			[
 				"ds",
@@ -165,10 +193,6 @@
 			[
 				"unst",
 				"Git: Reset (unstage) Current File"
-			],
-			[
-				"dif",
-				"Git: Diff Current File"
 			],
 			[
 				"adh",
@@ -368,6 +392,18 @@
 	},
 	"file_history":
 	[
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_global/src/com/webfilings/analytics/XBRLTrackingCodes.as",
+		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/settings.py",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/templates/django/projects/supported_types.html",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/gae_utility_handler.py",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/ProblemViewMediator.as",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_common/src/com/webfilings/common/vo/ProblemVO.as",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/ProblemView.mxml",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/xbrl/tests/xml/pre_order.xml",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/externals/py/server_composition/admin/templates/parse_results.html",
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/phantom.txt",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_common/src/com/webfilings/common/problems/AbstractProblemsSource.as",
@@ -376,7 +412,6 @@
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/jeroencranendonk/workspaces/wf/wf_arelle/wf_arelle/util.py",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/ProblemView.mxml",
 		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/admin/tests/test_grids.py",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/apps/filing/tests/form13f/test_informationtable.py",
@@ -426,7 +461,6 @@
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/external_libs/openid/server/server.py",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/client/service.py",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/summon_env.template",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/settings.py",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/externals/py/server_composition/test/unit/docxexp/result_comparison_template.html",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/XBRLModule/src/modules/xbrl/controller/tt/TaxonomyServiceTestCommand.as",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/externals/py/server_composition/go/python_support/layout/api/service_context.py",
@@ -453,7 +487,6 @@
 		"/Users/jeroencranendonk/Library/Application Support/CopyLess/PreviewFiles/22ABE511-E18F-43DD-829D-278AA2A825B3-41556-00020D95BAB56CBD.txt",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/ProblemViewSelectedItemRenderer.mxml",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/skins/zestycrayon/LinkButtonSkin.mxml",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_global/src/com/webfilings/analytics/XBRLTrackingCodes.as",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_text/src/com/webfilings/table/view/overlays/indicators/DCTemplateStyleIndicator.as",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/externals/web-skin/static/assets/js/docs-only/style-ie.js",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/books/scss/_editor-styles.scss",
@@ -486,16 +519,7 @@
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/skins/zestycrayon/ActionAlt1ButtonSkin.mxml",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/externals/web-skin/design-resources/wf_zesty-crayon-palette.ai",
 		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/AppStyles.as",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/skins/zestycrayon/ActionButtonSkin.mxml",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/NavButton.as",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ProjectsModule/src/modules/filing/view/components/xbrl/generation/XBRLGenerationView.mxml",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/ProblemViewSeverityItemRenderer.mxml",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/skins/zestycrayon/LightGrayButtonSkin.mxml",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/apps/doc_viewer/app/js/services/zoom_change_channel.js",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/skins/zestycrayon/XMFComboBoxSkin.mxml",
-		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/common/src/common/skins/wf/DefaultButtonSkin.mxml",
-		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
-		"/Users/jeroencranendonk/Library/Application Support/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings"
+		"/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_ux/src/com/webfilings/ux/skins/zestycrayon/ActionButtonSkin.mxml"
 	],
 	"find":
 	{
@@ -656,8 +680,155 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/ProblemView.mxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40640,
+								40640
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/Flex/Language/MXML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 18305.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jeroencranendonk/workspaces/wf/bigsky/z_bigsky/flex/libraries/wf_global/src/com/webfilings/analytics/XBRLTrackingCodes.as",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1892.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -735,6 +906,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"problemvi",
+				"flex/modules/ViewBrokerModule/src/modules/viewBroker/view/components/ProblemView.mxml"
+			],
 			[
 				"abstractprob",
 				"z_bigsky/flex/libraries/wf_common/src/com/webfilings/common/problems/AbstractProblemsSource.as"
@@ -881,7 +1056,7 @@
 		[
 			[
 				"",
-				"~/Library/Application Support/Sublime Text 3/Packages/User/WF Arelle.sublime-project"
+				"~/Library/Application Support/Sublime Text 3/Packages/User/OFI.sublime-project"
 			]
 		],
 		"width": 380.0
