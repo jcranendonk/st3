@@ -5,3 +5,6 @@ Packages/User/GoSublime/
 
 *.cache
 Package Control.last-run
+*.sublime-project
+*.sublime-workspace
+

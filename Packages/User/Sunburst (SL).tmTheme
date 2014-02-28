@@ -42,6 +42,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Git Graph Comment</string>
+			<key>scope</key>
+			<string>comment.git-graph</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Constant</string>
 			<key>scope</key>
 			<string>constant</string>
