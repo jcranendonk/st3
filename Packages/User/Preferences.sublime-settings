@@ -1,7 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"caret_style": "phase",
 	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
 	"disable_colored_group_labels": true,
 	"ensure_newline_at_eof_on_save": true,

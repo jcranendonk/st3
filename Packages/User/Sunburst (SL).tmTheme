@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#131313</string>
+				<string>#141414</string>
 				<key>caret</key>
 				<string>#A7A7A7</string>
 				<key>foreground</key>
@@ -25,6 +25,8 @@
 				<string>#FFFFFF18</string>
 				<key>selection</key>
 				<string>#344249</string>
+		        <key>gutter</key>
+		        <string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -49,6 +51,17 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>normal</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Python: definitions and keywords</string>
+			<key>scope</key>
+			<string>source.python storage.type, source.python keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
