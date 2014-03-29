@@ -8,3 +8,6 @@ Package Control.last-run
 *.sublime-project
 *.sublime-workspace
 
+Packages/User/Gist.sublime-settings
+Packages/User/trailing_spaces.sublime-settings
+
