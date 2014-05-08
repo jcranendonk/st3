@@ -15,16 +15,17 @@
 		"HTML-CSS-JS Prettify",
 		"LESS",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"Python Improved",
 		"Sass",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
 		"SublimeREPL",
-		"Theme - Nil",
-		"TrailingSpaces"
+		"Theme - Nil"
 	]
 }

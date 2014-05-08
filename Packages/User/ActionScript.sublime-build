@@ -1,0 +1,13 @@
+{
+    "cmd": ["/Users/jeroencranendonk/workspaces/wf/support/flex_sdks/4.5.1A/bin/mxmlc",
+        "$file",
+        "-static-link-runtime-shared-libraries=true"
+    ],
+    "file_regex": "(.*)[(](\\d+)[)]:(?: col: (?:\\d+))? *Error: (.*)",
+    "selector": "source.actionscript",
+    "variants": [{
+        "cmd": ["open ${file_path}/${file_base_name}.swf"],
+        "shell": true,
+        "name": "Run"
+    }]
+}

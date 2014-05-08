@@ -16,7 +16,7 @@
                 <key>background</key>
                 <string>#141414</string>
                 <key>caret</key>
-                <string>#F0F0F0</string>
+                <string>#00bbff</string>
                 <key>foreground</key>
                 <string>#F0F0F0</string>
                 <key>invisibles</key>
@@ -24,8 +24,16 @@
                 <key>lineHighlight</key>
                 <string>#FFFFFF18</string>
                 <key>selection</key>
-                <string>#612547</string>
+                <string>#3d1700</string>
+                <key>selectionBorder</key>
+                <string>#553420</string>
+                <key>inactiveSelection</key>
+                <string>#4a2c1a</string>
                 <key>gutter</key>
+                <string>#000000</string>
+                <key>findHighlight</key>
+                <string>#FDE380</string>
+                <key>findHighlightForeground</key>
                 <string>#000000</string>
             </dict>
         </dict>

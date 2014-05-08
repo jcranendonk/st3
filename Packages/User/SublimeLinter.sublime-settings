@@ -16,7 +16,7 @@
                 "@disable": false,
                 "args": [],
                 "excludes": [],
-                "ignore": "",
+                "ignore": "E501",
                 "max-line-length": 100,
                 "select": ""
             }
