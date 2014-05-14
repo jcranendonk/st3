@@ -1,12 +1,9 @@
 {
-    "color_scheme": "Packages/User/MarkdownEditor-Dark.tmTheme",
-    "trim_trailing_white_space_on_save": true,
-    "highlight_line": true,
-    "caret_style": "smooth",
-    "caret_extra_width": 0,
-    "caret_extra_top": 2,
-    "caret_extra_bottom": 1,
-    "extensions": [
-        "md"
-    ]
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/User/MarkdownEditor-Dark.tmTheme",
+	"highlight_line": true,
+	"trim_trailing_white_space_on_save": true
 }

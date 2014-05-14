@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"AutoPEP8",
+		"Base Encoder",
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Emmet",

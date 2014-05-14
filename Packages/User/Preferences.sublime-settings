@@ -1,5 +1,5 @@
 {
-	"auto_complete_commit_on_tab": true,
+	"caret_extra_width": 1,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
 	"disable_colored_group_labels": true,
@@ -11,8 +11,13 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"line_padding_top": 2,
 	"open_files_in_new_window": false,
@@ -25,5 +30,6 @@
 	"show_full_path": true,
 	"show_tab_close_buttons": false,
 	"theme": "Nil.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false
 }

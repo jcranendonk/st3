@@ -11,21 +11,19 @@
     //     ]
     // },
     {
-        "keys": [ "ctrl+alt+." ],
-        "args": { "action": "match_pair_inward" },
-        "command": "run_emmet_action",
+        "keys": [ "ctrl+alt+." ], "args": { "action": "match_pair_inward" }, "command": "run_emmet_action",
         "context": [
             { "key": "emmet_action_enabled.match_pair_inward" }
         ]
     },
     {
-        "keys": [ "ctrl+alt+," ],
-        "args": { "action": "match_pair_outward" },
-        "command": "run_emmet_action",
+        "keys": [ "ctrl+alt+," ], "args": { "action": "match_pair_outward" }, "command": "run_emmet_action",
         "context": [
             { "key": "emmet_action_enabled.match_pair_outward" }
         ]
     },
+
+    // { "keys": [","], "command": "commit_completion", "context": [{ "key": "auto_complete_visible" }, { "key": "setting.auto_complete_commit_on_tab", "operand": false }] },
 
     // Auto-pair backticks
     { "keys": ["`"], "command": "insert_snippet", "args": {"contents": "`$0`"}, "context":

@@ -35,6 +35,8 @@
                 <string>#FDE380</string>
                 <key>findHighlightForeground</key>
                 <string>#000000</string>
+                <key>activeGuide</key>
+                <string>#996600</string>
             </dict>
         </dict>
         <dict>
