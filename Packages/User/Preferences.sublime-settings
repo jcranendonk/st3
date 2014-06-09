@@ -1,6 +1,7 @@
 {
-	"caret_extra_width": 1,
+	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
+	"caret_extra_width": 1,
 	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
 	"disable_colored_group_labels": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -11,14 +12,15 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
+	"line_padding_bottom": 1,
 	"line_padding_top": 2,
 	"open_files_in_new_window": false,
 	"rulers":

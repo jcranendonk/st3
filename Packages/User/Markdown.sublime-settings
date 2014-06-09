@@ -4,6 +4,12 @@
 	"caret_extra_width": 1,
 	"caret_style": "smooth",
 	"color_scheme": "Packages/User/MarkdownEditor-Dark.tmTheme",
+	"extensions":
+	[
+		"mdown",
+		"txt",
+		"md"
+	],
 	"highlight_line": true,
 	"trim_trailing_white_space_on_save": true
 }

@@ -9,3 +9,4 @@ Package Control.last-run
 *.sublime-workspace
 
 Packages/User/Gist.sublime-settings
+Packages/User/GoSublime-aux.sublime-settings

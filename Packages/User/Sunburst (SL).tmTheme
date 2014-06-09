@@ -76,6 +76,17 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Python: function calls</string>
+            <key>scope</key>
+            <string>meta.function-call.generic</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DAD085</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Constant</string>
             <key>scope</key>
             <string>constant</string>
