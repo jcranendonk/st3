@@ -7,7 +7,6 @@
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"DashDoc",
-		"Emmet",
 		"Flex",
 		"FuzzyFileNav",
 		"Gist",
@@ -30,6 +29,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
 		"SublimeREPL",
-		"Theme - Nil"
+		"Theme - Nil",
+		"TrailingSpaces"
 	]
 }
