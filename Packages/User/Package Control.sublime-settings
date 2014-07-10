@@ -4,7 +4,6 @@
 	[
 		"AutoPEP8",
 		"Base Encoder",
-		"Better CoffeeScript",
 		"BracketHighlighter",
 		"DashDoc",
 		"Flex",
@@ -23,13 +22,12 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"Python Improved",
-		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
 		"SublimeREPL",
-		"Table Editor",
+		"Sublimerge Pro",
 		"Theme - Nil",
 		"TrailingSpaces"
 	]
