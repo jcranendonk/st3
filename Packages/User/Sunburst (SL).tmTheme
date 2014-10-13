@@ -65,6 +65,32 @@
         </dict>
         <dict>
             <key>name</key>
+            <string>Git diff headers</string>
+            <key>scope</key>
+            <string>text.git-commit meta.diff.header.from-file</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#C20020</string>
+                <key>background</key>
+                <string>#141414</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Git diff headers</string>
+            <key>scope</key>
+            <string>text.git-commit meta.diff.header.to-file</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#25CC0F</string>
+                <key>background</key>
+                <string>#141414</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
             <string>Python: definitions and keywords</string>
             <key>scope</key>
             <string>source.python storage.type, source.python keyword</string>
@@ -72,6 +98,17 @@
             <dict>
                 <key>fontStyle</key>
                 <string>italic</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Python: hacky regex override</string>
+            <key>scope</key>
+            <string>source.python string.quoted.double.single-line.raw-regex.python keyword</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>normal</string>
             </dict>
         </dict>
         <dict>

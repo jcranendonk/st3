@@ -1,7 +1,6 @@
 {
     "ignore_whitespace": true,
     "view": {
-        "line_numbers": true,
         "word_wrap": false,
         "scroll_past_end": false,
         "highlight_line": false,

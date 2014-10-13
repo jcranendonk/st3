@@ -4,6 +4,7 @@
 	[
 		"AutoPEP8",
 		"Base Encoder",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"DashDoc",
 		"Flex",
@@ -15,21 +16,31 @@
 		"GoSublime",
 		"Hasher",
 		"HTML-CSS-JS Prettify",
+		"Indent XML",
 		"Javascript Beautify",
 		"LESS",
+		"Markdown Extended",
 		"Markdown Preview",
-		"MarkdownEditing",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"Python Improved",
+		"SassBeautify",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-coffeelint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
 		"SublimeREPL",
 		"Sublimerge Pro",
+		"Syntax Highlighting for Sass",
 		"Theme - Nil",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"TypeScript",
+		"Wrap Plus"
+	],
+	"repositories":
+	[
+		"https://github.com/joneshf/sublime-livescript"
 	]
 }

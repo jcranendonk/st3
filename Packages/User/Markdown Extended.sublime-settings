@@ -1,0 +1,12 @@
+{
+	"draw_centered": true,
+	"extensions":
+	[
+		"md",
+		"markdown"
+	],
+	"rulers":
+	[
+	],
+	"wrap_width": 80
+}
