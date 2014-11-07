@@ -3,6 +3,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
+	"detect_slow_plugins": false,
 	"disable_colored_group_labels": true,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,

@@ -67,26 +67,26 @@
             <key>name</key>
             <string>Git diff headers</string>
             <key>scope</key>
-            <string>text.git-commit meta.diff.header.from-file</string>
+            <string>text.git-commit meta.diff.header.from-file, source.diff meta.diff.header.from-file</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#C20020</string>
+                <string>#F0F0F0</string>
                 <key>background</key>
-                <string>#141414</string>
+                <string>#B20018</string>
             </dict>
         </dict>
         <dict>
             <key>name</key>
             <string>Git diff headers</string>
             <key>scope</key>
-            <string>text.git-commit meta.diff.header.to-file</string>
+            <string>text.git-commit meta.diff.header.to-file, source.diff meta.diff.header.to-file</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#25CC0F</string>
-                <key>background</key>
                 <string>#141414</string>
+                <key>background</key>
+                <string>#25CC0F</string>
             </dict>
         </dict>
         <dict>
