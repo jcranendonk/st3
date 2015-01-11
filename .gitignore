@@ -9,9 +9,10 @@ Packages/User/GoSublime/
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle
-Package Control.system-ca-bundle
+Package Control.*-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/*.sublime-project
 
+Packages/User/Sublimerge.sublime-license
 Packages/User/Gist.sublime-settings
 Packages/User/GoSublime-aux.sublime-settings

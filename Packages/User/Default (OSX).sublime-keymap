@@ -59,5 +59,78 @@
             { "key": "preceding_text", "operator": "regex_contains", "operand": "`$", "match_all": true },
             { "key": "following_text", "operator": "regex_contains", "operand": "^`", "match_all": true }
         ]
+    },
+
+    // Override auto-pair square brackets to avoid collision with LiveScript word list brackets
+    { "keys": ["["], "command": "insert_snippet", "args": {"contents": "[$0]"}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.livescript" },
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+            { "key": "preceding_text", "operator": "not_regex_contains", "operand": "<$", "match_all": true },
+            { "key": "following_text", "operator": "regex_contains", "operand": "^(?:\t| |\\)|]|;|\\}|$)", "match_all": true }
+        ]
+    },
+    { "keys": ["["], "command": "insert_snippet", "args": {"contents": "[${0:$SELECTION}]"}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.livescript" },
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "preceding_text", "operator": "not_regex_contains", "operand": "<$", "match_all": true },
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+        ]
+    },
+    { "keys": ["]"], "command": "move", "args": {"by": "characters", "forward": true}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.livescript" },
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+            { "key": "preceding_text", "operator": "not_regex_contains", "operand": "<$", "match_all": true },
+            { "key": "following_text", "operator": "regex_contains", "operand": "^\\]", "match_all": true }
+        ]
+    },
+    { "keys": ["backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Left Right.sublime-macro"}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.livescript" },
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+            { "key": "preceding_text", "operator": "regex_contains", "operand": "[^<]\\[$", "match_all": true },
+            { "key": "following_text", "operator": "regex_contains", "operand": "^\\]", "match_all": true }
+        ]
+    },
+
+    // Auto-pair LiveScript word list brackets
+    { "keys": ["["], "command": "insert_snippet", "args": {"contents": "[$0]>"}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.livescript" },
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+            { "key": "preceding_text", "operator": "regex_contains", "operand": "<$", "match_all": true },
+            { "key": "following_text", "operator": "regex_contains", "operand": "^(?:\t| |\\)|]|;|\\}|$)", "match_all": true }
+        ]
+    },
+    { "keys": ["["], "command": "insert_snippet", "args": {"contents": "[${0:$SELECTION}]>"}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.livescript" },
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "preceding_text", "operator": "regex_contains", "operand": "<$", "match_all": true },
+            { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+        ]
+    },
+    { "keys": ["]"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Move 2 chars.sublime-macro"}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.livescript" },
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+            { "key": "following_text", "operator": "regex_contains", "operand": "^\\]>", "match_all": true }
+        ]
+    },
+    { "keys": ["backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Delete 2 Left Right.sublime-macro"}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.livescript" },
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
+            { "key": "preceding_text", "operator": "regex_contains", "operand": "<\\[$", "match_all": true },
+            { "key": "following_text", "operator": "regex_contains", "operand": "^\\]>", "match_all": true }
+        ]
     }
 ]

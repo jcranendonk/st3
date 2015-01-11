@@ -1,3 +1,10 @@
 {
-    "search_threshold": 50000
+    "search_threshold": 50000,
+    // "content_highlight_bar": true,
+    // "align_content_highlight_bar": true,
+    // "bracket_styles": {
+    //     "default": {
+    //         "style": "outline"
+    //     }
+    // }
 }

@@ -20,7 +20,28 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "golint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "gotype": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "strict": true
+            },
+            "jsxhint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
@@ -32,13 +53,25 @@
                 "ignore": "E501",
                 "max-line-length": 100,
                 "select": ""
+            },
+            "tslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "stippled underline",
         "no_column_highlights_line": true,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
-            "osx": [],
+            "osx": [
+                "/Users/jeroencranendonk/.pyenv/shims/",
+                "/Users/jeroencranendonk/.nvm/v0.10.5/bin/",
+                "/Users/jeroencranendonk/workspaces/go/bin/",
+                "/usr/local/bin",
+                "/usr/bin"
+            ],
             "windows": []
         },
         "python_paths": {
@@ -54,6 +87,8 @@
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
+            "javascript": "jsx",
+            "javascript next": "jsx",
             "php": "html",
             "python django": "python",
             "pythonimproved": "python"

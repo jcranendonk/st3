@@ -1,5 +1,13 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AutoPEP8",
@@ -7,6 +15,7 @@
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"DashDoc",
+		"Dockerfile Syntax Highlighting",
 		"Flex",
 		"FuzzyFileNav",
 		"GenerateUUID",
@@ -17,12 +26,15 @@
 		"Hasher",
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
+		"INI",
 		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
 		"JSX",
 		"LESS",
 		"LiveScript",
 		"Markdown Extended",
 		"Markdown Preview",
+		"orgmode",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
@@ -31,7 +43,10 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-coffeelint",
-		"SublimeLinter-jshint",
+		"SublimeLinter-contrib-golint",
+		"SublimeLinter-contrib-gotype",
+		"SublimeLinter-contrib-tslint",
+		"SublimeLinter-json",
 		"SublimeLinter-jsxhint",
 		"SublimeLinter-pep8",
 		"SublimeREPL",

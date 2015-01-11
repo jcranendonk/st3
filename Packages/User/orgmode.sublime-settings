@@ -1,0 +1,27 @@
+{
+    "color_scheme": "Packages/User/Sunburst (SL).tmTheme",
+	"extensions":
+	[
+		"org"
+	],
+    "orgmode.autocomplete.date.cmd":"dt",
+    "orgmode.autocomplete.date":"(%Y-%m-%d %H:%M)",
+	"orgmode.open_link.resolver.jira.url": "https://jira.webfilings.com/browse/%s",
+	"orgmode.open_link.resolvers":
+	[
+		"http",
+		"https",
+		"prompt",
+		"redmine",
+		"github",
+		"jira",
+		"crucible",
+		"fisheye",
+		"email",
+		"local_file"
+	],
+	"python":
+	{
+		"url": "http://docs.python.org/2/search.html?q=%s"
+	}
+}
