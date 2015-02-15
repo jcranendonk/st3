@@ -1,14 +1,14 @@
 {
+	"auto_find_in_selection": true,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
-	"detect_slow_plugins": false,
 	"disable_colored_group_labels": true,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
-	"font_face": "Ubuntu Mono",
-	"font_size": 12,
+	"font_face": "PragmataPro for Powerline",
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -21,11 +21,12 @@
 		"draw_active"
 	],
 	"line_padding_bottom": 1,
-	"line_padding_top": 2,
+	"line_padding_top": 1,
 	"open_files_in_new_window": false,
 	"rulers":
 	[
-		100
+		100,
+		120
 	],
 	"scroll_past_end": true,
 	"show_encoding": true,

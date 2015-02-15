@@ -3,13 +3,9 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
+		"6to5",
 		"AutoPEP8",
 		"Base Encoder",
 		"Better CoffeeScript",
@@ -29,7 +25,6 @@
 		"INI",
 		"Javascript Beautify",
 		"JavaScriptNext - ES6 Syntax",
-		"JSX",
 		"LESS",
 		"LiveScript",
 		"Markdown Extended",
@@ -46,6 +41,7 @@
 		"SublimeLinter-contrib-golint",
 		"SublimeLinter-contrib-gotype",
 		"SublimeLinter-contrib-tslint",
+		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-jsxhint",
 		"SublimeLinter-pep8",

@@ -43,7 +43,9 @@
             },
             "jsxhint": {
                 "@disable": false,
-                "args": [],
+                "args": [
+                    "--7to5"
+                ],
                 "excludes": []
             },
             "pep8": {
