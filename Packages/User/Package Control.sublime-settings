@@ -5,14 +5,11 @@
 	],
 	"installed_packages":
 	[
-		"6to5",
 		"AutoPEP8",
+		"Babel",
 		"Base Encoder",
-		"Better CoffeeScript",
 		"BracketHighlighter",
-		"DashDoc",
 		"Dockerfile Syntax Highlighting",
-		"Flex",
 		"FuzzyFileNav",
 		"GenerateUUID",
 		"Gist",
@@ -26,7 +23,6 @@
 		"Javascript Beautify",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
-		"LiveScript",
 		"Markdown Extended",
 		"Markdown Preview",
 		"orgmode",
@@ -37,10 +33,8 @@
 		"SassBeautify",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-golint",
 		"SublimeLinter-contrib-gotype",
-		"SublimeLinter-contrib-tslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-jsxhint",
@@ -50,7 +44,6 @@
 		"Syntax Highlighting for Sass",
 		"Theme - Nil",
 		"TrailingSpaces",
-		"TypeScript",
 		"Wrap Plus"
 	],
 	"repositories":

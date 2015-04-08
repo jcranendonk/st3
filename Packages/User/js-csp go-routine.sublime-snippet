@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+csp.go(function*() {
+	$1
+});
+]]></content>
+	<tabTrigger>go</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -44,7 +44,7 @@
             "jsxhint": {
                 "@disable": false,
                 "args": [
-                    "--7to5"
+                    "--babel-experimental"
                 ],
                 "excludes": []
             },
@@ -69,7 +69,7 @@
             "linux": [],
             "osx": [
                 "/Users/jeroencranendonk/.pyenv/shims/",
-                "/Users/jeroencranendonk/.nvm/v0.10.5/bin/",
+                "/Users/jeroencranendonk/.nvm/current/bin/",
                 "/Users/jeroencranendonk/workspaces/go/bin/",
                 "/usr/local/bin",
                 "/usr/bin"
