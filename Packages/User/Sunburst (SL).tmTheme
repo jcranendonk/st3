@@ -28,9 +28,9 @@
                     <key>selection</key>
                     <string>#3d1700</string>
                     <key>selectionBorder</key>
-                    <string>#553420</string>
+                    <string>#FF6100</string>
                     <key>inactiveSelection</key>
-                    <string>#4a2c1a</string>
+                    <string>#3d1700</string>
                     <key>gutter</key>
                     <string>#000000</string>
                     <key>findHighlight</key>
