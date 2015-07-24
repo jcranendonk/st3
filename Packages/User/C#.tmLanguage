@@ -281,10 +281,10 @@
 					<key>include</key>
 					<string>#builtinTypes</string>
 				</dict>
-				<dict>
+				<!-- <dict>
 					<key>include</key>
 					<string>#documentation</string>
-				</dict>
+				</dict> -->
 			</array>
 		</dict>
 		<key>comments</key>
@@ -541,7 +541,7 @@
 						</dict>
 						<dict>
 							<key>begin</key>
-							<string>([\w.]+)\s*(&lt;\w*&gt;)?\s*\(</string>
+							<string>([\w.]+)\s*\(</string>
 							<key>beginCaptures</key>
 							<dict>
 								<key>1</key>

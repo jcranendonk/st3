@@ -593,12 +593,7 @@
                     <string>#F8F8F8</string>
                 </dict>
             </dict>
-            <dict>
-                <key>name</key>
-                <string>--------------------------------</string>
-                <key>settings</key>
-                <dict/>
-            </dict>
+            <!-- Markdown -->
             <dict>
                 <key>name</key>
                 <string>Markup: Italic</string>
