@@ -18,6 +18,11 @@
             { "key": "selector", "operator": "equal", "operand": "source.scss,source.sass,source.css" }
         ]
     },
+    { "keys": ["ctrl+alt+f"], "command": "pretty_json", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.json" }
+        ]
+    },
     { "keys": ["super+'"], "command": "bh_key", "args":
         {
             "lines" : true,

@@ -1,3 +1,4 @@
 {
-    "status_opens_file": true
+    "status_opens_file": true,
+    "git_command": "/usr/local/bin/git"
 }

@@ -50,13 +50,7 @@
         "passive_warnings": false,
         "paths": {
             "linux": [],
-            "osx": [
-                "/Users/jeroencranendonk/.pyenv/shims/",
-                "/Users/jeroencranendonk/.nvm/current/bin/",
-                "/Users/jeroencranendonk/workspaces/go/bin/",
-                "/usr/local/bin",
-                "/usr/bin"
-            ],
+            "osx": [],
             "windows": []
         },
         "python_paths": {
