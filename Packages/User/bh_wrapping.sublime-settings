@@ -38,9 +38,9 @@
             ]
         },
         {
-            "enabled": true, "language_list": ["Markdown"], "language_filter": "whitelist", "entries": [
-                {"name": "Mardown: Bold", "brackets": ["**", "**${BH_SEL}"]},
-                {"name": "Mardown: Italic", "brackets": ["_", "_${BH_SEL}"]}
+            "enabled": true, "language_list": ["Markdown", "Markdown Extended"], "language_filter": "whitelist", "entries": [
+                {"name": "Markdown: Bold", "brackets": ["**", "**${BH_SEL}"]},
+                {"name": "Markdown: Italic", "brackets": ["*", "*${BH_SEL}"]}
             ]
         },
         {
