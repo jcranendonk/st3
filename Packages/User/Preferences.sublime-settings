@@ -4,7 +4,6 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
-	"dart_sdk_path": "/usr/local/opt/dart/libexec",
 	"disable_colored_group_labels": true,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
@@ -16,6 +15,7 @@
 	[
 		"InactivePanes",
 		"JavaScript",
+		"Markdown",
 		"Vintage"
 	],
 	"inactive_panes_dim_strength": 0.15,
