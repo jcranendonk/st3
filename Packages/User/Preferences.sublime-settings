@@ -1,6 +1,26 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"auto_find_in_selection": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		".pub/**",
+		"dist/**",
+		"packages/**",
+		"node_modules/**"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
