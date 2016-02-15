@@ -1,0 +1,9 @@
+{
+  "draw_centered": true,
+  "extensions": [
+    "todo"
+  ],
+  "rulers": [],
+  "wrap_width": 100,
+  "color_scheme": "Packages/User/tasks-dark.tmTheme"
+}
